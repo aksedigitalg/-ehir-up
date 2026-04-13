@@ -1,0 +1,5 @@
+{
+  "name": "CityExplorer",
+  "description": "Discover the heart of the city with real-time weather, local events, and hidden gems.",
+  "requestFramePermissions": []
+}
