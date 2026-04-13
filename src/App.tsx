@@ -44,7 +44,7 @@ export default function App() {
       </header>
 
       <main className="max-w-7xl mx-auto px-6 py-8">
-        {/* Orta içerik tamamen temizlendi */}
+        {/* İçerik alanı boş bırakıldı */}
       </main>
 
       {/* Bottom Navigation (Mobile) */}
